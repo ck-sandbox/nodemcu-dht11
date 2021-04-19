@@ -31,6 +31,6 @@
 
 ###
 ### 
-## **In subsequent project, an enhancement will be made to this project to make use of NODERED and MQTT to create a remote sensor monitoring on web browser.**
+## **In subsequent project, an enhancement will be added to make use of NODERED and MQTT to create a remote sensor monitoring display on web browser.**
 ### 
 ## **Stay tuned!**
