@@ -33,4 +33,4 @@
 ### 
 ## **In subsequent project, an enhancement will be added to make use of NODERED and MQTT to create a remote sensor monitoring display on web browser.**
 ### 
-## **Stay tuned!**
+## **Stay tuned! Get a preview of the working enhancement at http://dht11.ck-sandbox.cyou**
